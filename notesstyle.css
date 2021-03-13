@@ -1,0 +1,19 @@
+#notes{
+    box-sizing: border-box;
+    width: 30%;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+#clickToAdd{
+    background-color: rgba(13, 214, 250, 0.952);
+    width: 9%;
+    border: 2px solid black;
+    border-radius: 7px;
+    margin-top: 9px;
+}
+.heading{
+    text-align: center;
+}
+.takeNotes{
+    text-align: center;
+}
